@@ -1,0 +1,12 @@
+# Ignore compiled class files
+*.class
+
+# Ignore build folders if any
+bin/
+out/
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# Ignore system files
+.DS_Store
